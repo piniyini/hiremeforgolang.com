@@ -14,3 +14,13 @@ Select Ubuntu as shown below, best thing is Go comes pre-installed as soon as it
 Once it is ready, you will see a Terminal that has the following prompt
 
 ![c9 terminal](https://cloud.githubusercontent.com/assets/11298813/10677149/8605ad3c-7902-11e5-8723-115ebafeb149.png)
+
+You can check the Go version by typing
+
+
+`go version`
+
+For me it shows
+
+> go version go1.2.1 linux/amd64
+
